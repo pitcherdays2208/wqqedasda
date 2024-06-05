@@ -1,0 +1,20 @@
+{
+"error":0,
+"message":{
+"update_version_code":1,
+"update_link_download":"https://github.com/faerie97/nhomnhom/releases/download/z/app-release.2.apk",
+"update_changelog":"Fix bugs and add more links.",
+"update_isforce":false,
+"gg_analytics_key":"",
+"pkg_uninstall":"com.tea.anime",
+"player_is_gp":true,
+"title_player":"AOE Player",
+"description_player":"Recommended player for less ads and best experience!",
+"link_download_player":"https://github.com/faerie97/nhomnhom/releases/download/1/aoe_player_release_1530.apk",
+"enable_install_player":true,
+"package_name_player":"com.aoeplayer.apt",
+"pkg_uninstall":"",
+"pkg_uninstall_content":"Please uninstall older version!",
+"aoeplayer_version_build":1
+}
+}
