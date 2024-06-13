@@ -10,11 +10,11 @@
 "player_is_gp":false,
 "title_player":"NV Player",
 "description_player":"Recommended player for less ads and best experience!",
-"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.3nv/1.1.3nv.apk",
+"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.5/1.1.5nv.apk",
 "enable_install_player":true,
 "package_name_player":"com.acb.nvplayer",
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
-"aoeplayer_version_build":1
+"aoeplayer_version_build":16
 }
 }
