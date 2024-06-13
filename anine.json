@@ -7,7 +7,7 @@
 "update_isforce":false,
 "gg_analytics_key":"",
 "pkg_uninstall":"com.tea.anime",
-"player_is_gp":true,
+"player_is_gp":false,
 "title_player":"NV Player",
 "description_player":"Recommended player for less ads and best experience!",
 "link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.3nv/1.1.3nv.apk",
