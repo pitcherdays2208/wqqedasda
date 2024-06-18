@@ -15,6 +15,7 @@
 "package_name_player":"com.acb.nvplayer",
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
+"force_update_player":true,
 "aoeplayer_version_build":16
 }
 }
