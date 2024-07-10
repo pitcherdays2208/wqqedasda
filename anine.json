@@ -1,21 +1,21 @@
 {
 "error":0,
 "message":{
-"update_version_code":6,
-"update_link_download":"https://github.com/adzz4863/azmedic/releases/download/1.5/1.5ban.apk",
+"update_version_code":7,
+"update_link_download":"https://github.com/adzz4863/sadsad/releases/download/1.6/1.6ban.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":false,
 "gg_analytics_key":"",
 "pkg_uninstall":"com.tea.anime",
-"player_is_gp":false,
-"title_player":"NV Player",
+"player_is_gp":true,
+"title_player":"Bear Player",
 "description_player":"Recommended player for less ads and best experience!",
-"link_download_player":"https://github.com/bloodhornaaa/adc/releases/download/1.1.5/1.1.5nv.apk",
+"link_download_player":"https://github.com/adzz4863/sadsad/releases/download/2.19.5/BearPlayer_release_2.19.5_2019005_100724_1730.apk",
 "enable_install_player":true,
-"package_name_player":"com.acb.nvplayer",
+"package_name_player":"com.player.bear",
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
 "force_update_player":true,
-"aoeplayer_version_build":16
+"aoeplayer_version_build":2019005
 }
 }
