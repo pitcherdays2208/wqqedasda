@@ -1,8 +1,8 @@
 {
 "error":0,
 "message":{
-"update_version_code":9,
-"update_link_download":"https://github.com/adzz4863/azmedic/releases/download/1.8/1.8ban.apk",
+"update_version_code":10,
+"update_link_download":"https://github.com/adzz4863/azmedic/releases/download/1.9/1.9ban.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":false,
 "gg_analytics_key":"",
