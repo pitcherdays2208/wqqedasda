@@ -13,6 +13,8 @@
 "link_download_player":"https://github.com/awedsa256/3242424/releases/download/2.20.8/2.20.8.apk",
 "enable_install_player":true,
 "package_name_player":"com.player.bear",
+"h_decrypted_key":"",
+"nine_decrypted_key":"",
 "pkg_uninstall":"",
 "pkg_uninstall_content":"Please uninstall older version!",
 "force_update_player":true,
