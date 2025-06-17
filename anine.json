@@ -1,8 +1,8 @@
 {
 "error":0,
 "message":{
-"update_version_code":16,
-"update_link_download":"https://github.com/onedrone892/lololo/releases/download/2.5ban/2.5ban.apk",
+"update_version_code":17,
+"update_link_download":"https://github.com/onedrone892/lololo/releases/download/2.6ban/2.6ban.apk",
 "update_changelog":"Fix bugs and add more links.",
 "update_isforce":false,
 "gg_analytics_key":"",
