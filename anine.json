@@ -21,10 +21,13 @@
 "description_player_07012026":"Recommended player for less ads and best experience!",
 "link_download_player_07012026":"https://github.com/awedsa256/3242424/releases/download/2.20.8/2.20.8.apk",
 "package_name_player_07012026":"vnm.oea.vibeplayer",
+"force_update_player_07012026":true,
+"aoeplayer_version_build_07012026":2019032
 "force_update_player":true,
 "aoeplayer_version_build":2019019
 }
 }
+
 
 
 
